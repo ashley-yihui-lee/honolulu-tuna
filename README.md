@@ -44,7 +44,7 @@ The dataset is divided into several components. Below are descriptions of each:
 - **Year**: The year the data was recorded.
 - **Region**: The regional fisheries management area (e.g., "WCPFC" for the Western and Central Pacific Fisheries Commission).
 
-#### **[Aggregated Data]()**
+#### **Aggregated Data**
 - **Annual-Catch-Estimate**: Total estimated catch (in metric tons or number of fish) for each year.
 - **Aggregate-Data-Area**: Spatial resolution for aggregated catch data (e.g., "5x5" refers to a 5° latitude by 5° longitude grid).
 - **Aggregate-Data-Time**: Time resolution for aggregated catch data (e.g., "MON" for monthly reporting).

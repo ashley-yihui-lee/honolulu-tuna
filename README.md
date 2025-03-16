@@ -11,7 +11,7 @@ What does this data tell us about who is catching the most fish and from which c
    - Use [Tabula](https://tabula.technology/) to extract the datasets from the [WCPFC Data](https://www.wcpfc.int/data-catalogue).
   
 2. **Data Understanding**  
-   - Review documentation to comprehend the meaning of each row and column in the dataset.
+   - Review documentation to understand the meaning of each row and column in the dataset.
 
 3. **Data Analysis**  
    - Use Python (Pandas) to load, view, and process the data, extracting insights and performing calculations. Data cleaning is done in the notebook "skj-bet-tuna.ipynb." Separate analyses are conducted in "bet-tuna.ipynb" and "skj-tuna.ipynb."
@@ -25,7 +25,6 @@ The datasets used include aggregated, operational, and length data on longline b
 
 ---
 ### **Documentation**
-The dataset is divided into several components. Below are descriptions of each:
 
 #### 1. **[Estimates of Annual Catches](https://www.wcpfc.int/doc/annual-catch-estimates)**
 - This includes the estimated total catch for each year across various regions.

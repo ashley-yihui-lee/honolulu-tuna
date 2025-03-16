@@ -14,7 +14,7 @@ What does this data tell us about who is catching the most fish and from which c
    - Review documentation to comprehend the meaning of each row and column in the dataset.
 
 3. **Data Analysis**  
-   - Use Python and Pandas to load, view, and process the data, extracting meaningful insights and performing calculations.
+   - Use Python (Pandas) to load, view, and process the data, extracting insights and performing calculations. Data cleaning is done in the notebook "skj-bet-tuna.ipynb." Separate analyses are conducted in "bet-tuna.ipynb" and "skj-tuna.ipynb."
 
 4. **Data Visualization**
    - Use Datawrapper to visualize the findings.

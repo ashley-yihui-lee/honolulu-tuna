@@ -8,7 +8,7 @@ What does this data tell us about who is catching the most fish and from which c
 
 ### **Methodology**
 1. **Data Extraction**  
-   - Use [Tabula](https://tabula.technology/) to extract the datasets from the provided documents.
+   - Use [Tabula](https://tabula.technology/) to extract the datasets from the [WCPFC Data](https://www.wcpfc.int/data-catalogue).
   
 2. **Data Understanding**  
    - Review documentation to comprehend the meaning of each row and column in the dataset.
@@ -20,7 +20,10 @@ What does this data tell us about who is catching the most fish and from which c
    - Use Datawrapper to visualize the findings.
 
 ---
+### **Datasets**
+The datasets used include aggregated, operational, and length data on longline bigeye tuna, pole-and-line bigeye tuna, purse seine bigeye tuna, longline skipjack tuna, pole-and-line skipjack tuna, and purse seine skipjack tuna. These datasets are gathered and maintained WCPFC and can be found [here](https://www.wcpfc.int/data-catalogue). 
 
+---
 ### **Documentation**
 The dataset is divided into several components. Below are descriptions of each:
 

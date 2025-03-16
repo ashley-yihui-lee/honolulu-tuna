@@ -1,9 +1,8 @@
-# Honolulu Tuna
+## This is a project for Honolulu Civil Beat internship
+View the project [here](https://ashley-yihui-lee.github.io/honolulu-tuna/)
 
 ### **Research Question**
-- What does this data tell us about who is catching the most fish and from which country?
-- What does it reveal about fishing gear types?
-- Any additional insights from the data?
+What does this data tell us about who is catching the most fish and from which country? What does it tell us about fishing gear types? Anything else? 
 
 ---
 
@@ -16,6 +15,9 @@
 
 3. **Data Analysis**  
    - Use Python and Pandas to load, view, and process the data, extracting meaningful insights and performing calculations.
+
+4. **Data Visualization**
+   - Use Datawrapper to visualize the findings.
 
 ---
 
@@ -58,21 +60,3 @@ The dataset is divided into several components. Below are descriptions of each:
 - **Length-Data-Time1**: The time resolution for the length data (e.g., "MON" for monthly).
 - **Length-Data-Size-int1**: The size class interval for length data.
 - **Length-Data-Samples1**: The number of fish measured for length composition in the first dataset.
-
----
-
-### **Visualizations**
-
-Here are the charts that provide insights into tuna catch and gear usage:
-
-1. **Countries That Caught the Most Skipjack Tuna in 2023**
-   - [Skipjack Tuna Catch](https://datawrapper.dwcdn.net/sbTg9/1/)
-
-2. **Countries That Caught the Most Bigeye Tuna in 2023**
-   - [Bigeye Tuna Catch](https://datawrapper.dwcdn.net/xXt2y/1/)
-
-3. **Gear Used to Catch Skipjack Tuna Over the Years**
-   - [Gear for Skipjack Tuna](https://datawrapper.dwcdn.net/bk8qD/1/)
-
-4. **Gear Used to Catch Bigeye Tuna Over the Years**
-   - [Gear for Bigeye Tuna](https://datawrapper.dwcdn.net/6wRDl/1/)

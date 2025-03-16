@@ -66,13 +66,13 @@ The dataset is divided into several components. Below are descriptions of each:
 Here are the charts that provide insights into tuna catch and gear usage:
 
 1. **Countries That Caught the Most Skipjack Tuna in 2023**
-   - ![Skipjack Tuna Catch](https://datawrapper.dwcdn.net/sbTg9/1/)
+   - [Skipjack Tuna Catch](https://datawrapper.dwcdn.net/sbTg9/1/)
 
 2. **Countries That Caught the Most Bigeye Tuna in 2023**
-   - ![Bigeye Tuna Catch](https://datawrapper.dwcdn.net/xXt2y/1/)
+   - [Bigeye Tuna Catch](https://datawrapper.dwcdn.net/xXt2y/1/)
 
 3. **Gear Used to Catch Skipjack Tuna Over the Years**
-   - ![Gear for Skipjack Tuna](https://datawrapper.dwcdn.net/bk8qD/1/)
+   - [Gear for Skipjack Tuna](https://datawrapper.dwcdn.net/bk8qD/1/)
 
 4. **Gear Used to Catch Bigeye Tuna Over the Years**
-   - ![Gear for Bigeye Tuna](https://datawrapper.dwcdn.net/6wRDl/1/)
+   - [Gear for Bigeye Tuna](https://datawrapper.dwcdn.net/6wRDl/1/)
